@@ -171,7 +171,7 @@ docs/        # wiring, notes
 
 ## 📸 Demo
 
-> (Add your photo here)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0c2eff97-83ed-49ba-8897-dc500addbcd7" />
 
 Example:
 
